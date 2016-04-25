@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "iOS底层网络框架"
   s.homepage     = "https://github.com/CupinnCoder/BBNetwork"
-  s.license      = "Copyright (C) 2016 TimeFace, Inc.  All rights reserved."
+  s.license      = "Copyright (C) 2016 Gary, Inc.  All rights reserved."
   s.author             = { "Melvin" => “zguanyu@timeface.cn" }
   s.ios.deployment_target = “7.0”
   s.source       = { :git => "https://github.com/CupinnCoder/BBNetwork.git"}
